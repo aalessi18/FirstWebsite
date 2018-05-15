@@ -51,6 +51,3 @@ function submit() {
         fieldset.style.display = "none";
     }
 }
-/*
-    submit the form adding innerHTML through JS "method="get""
-*/
