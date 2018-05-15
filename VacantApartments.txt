@@ -1,0 +1,7 @@
+Loft:Downtown:Fire Place:Dog
+threeandHalf:Brossard:Indoor Parking:Cat
+threeandHalf:Brossard:Indoor Parking:Cat
+fiveandHalf:Downtown:Electric Heating:Dog
+Loft:Downtown:Fire Place:Dog
+Loft:Downtown:Fire Place:Dog
+Loft:Downtown:Fire Place:Dog

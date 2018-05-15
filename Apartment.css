@@ -1,0 +1,39 @@
+/*
+// ------------------------------------------------------------------------------
+// Written by: Alexander Alessi
+// -----------------------------------------------------------------------------
+*/
+
+body {background-color: #ff9933;}
+
+#fieldset1 {
+    background-color: #efc2c2; 
+    border-color: brown;
+}
+#fieldset2 {
+    background-color: #ccffff; 
+    border-color: blue;
+}
+#fieldset3, #fieldset4 {
+    background-color: #99ff99; 
+    border-color: green; 
+    display: none;
+    font-style: italic;
+}
+
+#signIn, #register, #sub, #reset, #signOut, #infoButton {
+    position: relative; 
+    background-color: antiquewhite; 
+    font-family: Arial, 'Times New Roman'; 
+    font-size: 17px;
+}
+
+#legend1 {
+    color: brown;
+}
+#legend2 {
+    color: blue;
+}
+#legend3 {
+    color: green;
+}
